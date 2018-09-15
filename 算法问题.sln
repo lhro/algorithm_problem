@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "853. 车队", "853. 车队\853. 车队.pyproj", "{A0648D00-FFD0-4DEE-9984-6CC5B23BD647}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "855. 考场就座", "855. 考场就座\855. 考场就座.pyproj", "{8D87E09F-7DC1-4240-8C9A-1F153A4A623D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "854. 相似度为 K 的字符串", "854. 相似度为 K 的字符串\854. 相似度为 K 的字符串.pyproj", "{3A49C1AC-CB77-4D81-93B3-099C086F78DA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "test--python", "test--python\test--python.pyproj", "{89DF6E34-C941-4CDE-9A1A-682B702A579A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "867. 转置矩阵", "867. 转置矩阵\867. 转置矩阵.pyproj", "{EBD62B1B-F0CE-4A77-9AA1-1DC3D0AAB0D4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "866. 回文素数", "866. 回文素数\866. 回文素数.pyproj", "{77050532-11F0-4387-B493-0C403CD06366}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "851. 喧闹和富有", "851. 喧闹和富有\851. 喧闹和富有.pyproj", "{D41E6CDC-DE72-486E-AFC4-6FBF0011FC8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0648D00-FFD0-4DEE-9984-6CC5B23BD647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0648D00-FFD0-4DEE-9984-6CC5B23BD647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D87E09F-7DC1-4240-8C9A-1F153A4A623D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D87E09F-7DC1-4240-8C9A-1F153A4A623D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A49C1AC-CB77-4D81-93B3-099C086F78DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A49C1AC-CB77-4D81-93B3-099C086F78DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DF6E34-C941-4CDE-9A1A-682B702A579A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DF6E34-C941-4CDE-9A1A-682B702A579A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD62B1B-F0CE-4A77-9AA1-1DC3D0AAB0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD62B1B-F0CE-4A77-9AA1-1DC3D0AAB0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77050532-11F0-4387-B493-0C403CD06366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77050532-11F0-4387-B493-0C403CD06366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41E6CDC-DE72-486E-AFC4-6FBF0011FC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41E6CDC-DE72-486E-AFC4-6FBF0011FC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3F883F9-9B23-47A0-82DF-FF72EB352A0E}
+	EndGlobalSection
+EndGlobal
